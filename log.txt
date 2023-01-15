@@ -1,0 +1,72 @@
+There are total 2 supported mouse buttons
+Allegro5 initialized
+Game begin
+loaded font: Assets/Minecraft.ttf with size 30
+loaded audio: Assets/Music/megalovania.ogg
+loaded audio: Assets/Music/setting_ost.ogg
+loaded audio: Assets/Music/battle.ogg
+loaded audio: Assets/Music/losing.ogg
+loaded audio: Assets/Music/winning.ogg
+loaded audio: Assets/Music/pacman-chomp.ogg
+loaded audio: Assets/Music/pacman_death.ogg
+Game initialized
+Menu scene created
+Change scene from (unnamed) to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/coolTitle.png
+Game start event loop
+Settings scene created
+Change scene from Menu to Settings
+loaded image: Assets/sleepingPacman.png
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+loaded image: Assets/increase-before.png
+loaded image: Assets/increase-after.png
+loaded image: Assets/decrease-before.png
+loaded image: Assets/decrease-after.png
+loaded image: Assets/increase-before.png
+loaded image: Assets/increase-after.png
+loaded image: Assets/decrease-before.png
+loaded image: Assets/decrease-after.png
+loaded image: Assets/story-before.png
+loaded image: Assets/story-after.png
+loaded image: Assets/black.png
+loaded image: Assets/black.png
+Settings story created
+Change scene from Settings to Settings
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+loaded image: Assets/comic_strip2.png
+Menu scene created
+Change scene from Settings to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/coolTitle.png
+Settings scene created
+Change scene from Menu to Settings
+loaded image: Assets/sleepingPacman.png
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+loaded image: Assets/increase-before.png
+loaded image: Assets/increase-after.png
+loaded image: Assets/decrease-before.png
+loaded image: Assets/decrease-after.png
+loaded image: Assets/increase-before.png
+loaded image: Assets/increase-after.png
+loaded image: Assets/decrease-before.png
+loaded image: Assets/decrease-after.png
+loaded image: Assets/story-before.png
+loaded image: Assets/story-after.png
+loaded image: Assets/black.png
+loaded image: Assets/black.png
+Settings story created
+Change scene from Settings to Settings
+loaded image: Assets/exit-game.png
+loaded image: Assets/exit-game-after.png
+loaded image: Assets/comic_strip2.png
+Menu scene created
+Change scene from Settings to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/coolTitle.png

@@ -1,0 +1,6 @@
+﻿  scene_settings.c
+C:\Allegro_pacman_VS2019\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(238,11): warning C4098: 'on_mouse_down': 'void' function returning a value
+C:\Allegro_pacman_VS2019\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(259,26): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'func_ptr'
+C:\Allegro_pacman_VS2019\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(260,26): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'func_ptr'
+C:\Allegro_pacman_VS2019\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(262,38): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'func_ptr_mouse'
+  Allegro_pacman.vcxproj -> C:\Allegro_pacman_VS2019\Allegro_pacman\x64\Debug\Allegro_pacman.exe

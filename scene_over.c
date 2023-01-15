@@ -1,0 +1,14 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <allegro5/allegro.h>
+#include <allegro5/allegro_image.h>
+#include <allegro5/allegro_primitives.h>
+#include <allegro5/allegro_native_dialog.h>
+#include <math.h>
+#include "scene_menu_object.h"
+#include "scene_settings.h"
+#include "scene_game.h"
+#include "scene_menu.h"
+#include "utility.h"
+#include "shared.h"
